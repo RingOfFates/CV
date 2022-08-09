@@ -1,0 +1,37 @@
+
+body {
+    background-color: #E7F6F2;;
+
+}
+hr {
+
+    display:block;
+    border-color: #2C3333;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+    height: 5%;
+    margin-left:15%;
+    margin-top:10px;
+    margin-bottom:10px;
+    /* opacity: 50%; */
+    }
+
+body {
+    background-color: white(110, 110, 219);;
+
+}
+
+h1  {
+    color: #395B64
+
+}
+
+h3 {
+font-style: italic;
+color: #66BFBF;
+}
+
+
+
